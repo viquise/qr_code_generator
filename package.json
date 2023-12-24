@@ -1,0 +1,24 @@
+{
+  "name": "qr_code_generator",
+  "version": "1.0.0",
+  "description": "A qr image generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viquise/qr_code_generator.git"
+  },
+  "author": "victor christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viquise/qr_code_generator/issues"
+  },
+  "homepage": "https://github.com/viquise/qr_code_generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
